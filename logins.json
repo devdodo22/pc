@@ -1,0 +1,12 @@
+[
+  {
+    "email": "claimer1@pch.com",
+    "password": "Password123",
+    "name": "John Doe"
+  },
+  {
+    "email": "claimer2@pch.com",
+    "password": "Secure456",
+    "name": "Jane Smith"
+  }
+]
