@@ -8,5 +8,10 @@
     "email": "claimer2@pch.com",
     "password": "Secure456",
     "name": "Jane Smith"
+  },
+  {
+    "email": "dave@gmail.com",
+    "password": "Dave123",
+    "name": "Sandra peterson"
   }
 ]
